@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rtinstalaciones.com/sitemap.xml
